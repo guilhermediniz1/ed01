@@ -1,0 +1,3 @@
+/home/gui/Documents/UFES/ED01/lista_linear_estatica/cmake-build-debug/CMakeFiles/lista_linear_estatica.dir
+/home/gui/Documents/UFES/ED01/lista_linear_estatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gui/Documents/UFES/ED01/lista_linear_estatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
